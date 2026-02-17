@@ -24,7 +24,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "6.6",
+      "BundleVersionCode": "1.0",
       "InterstitialAdDelayTime": "5",
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
