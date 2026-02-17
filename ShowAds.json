@@ -13,4 +13,25 @@
  
 
  "com.test.ads":"1.1" 
+
+
+"AdIds":[{
+      "BundleId": "com.junglenookgames.grand.metro.open.world.drive",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true, 
+      "ShowBannerAdsFlag": true,
+      "ShowAppOpenAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "HaveMultipleApks": false,
+      "BundleVersionCode": "6.6",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "0", 
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false
+}]
+ 
 }
